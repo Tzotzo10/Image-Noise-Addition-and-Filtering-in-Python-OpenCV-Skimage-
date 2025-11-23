@@ -35,7 +35,7 @@ Place an image named jinx.jpg in the same folder as the script.
 
 Run the Python file:
 
-python p2.py
+python salt_and_pepper.py
 
 
 The program will:
@@ -72,5 +72,6 @@ Plot MSE/SSIM for all filters in a bar chart
 Save metrics in a CSV file
 
 👩‍💻 Author
+
 
 Papapanagiotou Georgia
